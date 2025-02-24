@@ -4,6 +4,6 @@ public class Exemplu {
 
 
     public Exemplu() {
-        System.out.println("Exemplul");
+        System.out.println("EABC");
     }
 }
